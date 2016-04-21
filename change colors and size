@@ -1,0 +1,6 @@
+.fa .fa-diamond{
+  corol:#ED702C;
+}
+.fa .fa-diamond .fa-5X{
+font-size: 100px
+}
